@@ -1,0 +1,11 @@
+.txt-secondary{
+    color: var(--secondaryColor);
+}
+
+.txt-primary{
+    color: var(--primaryColor);
+}
+
+.txt-blue-gray{
+    color: var(--blueGrayColor);
+}

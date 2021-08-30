@@ -1,0 +1,18 @@
+.button{
+    padding: 10px 25px;
+    border: none;
+    border-radius: 100px;
+    outline: none;
+    
+}
+
+.button-primary{
+    background: linear-gradient(95.54deg, #C259FF -6.2%, #FB31D5 103.08%); 
+    color: #fff;
+}
+
+.button-outlined{
+    background: none;
+    border: 2px solid #fff;
+    color: #fff;
+}

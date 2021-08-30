@@ -1,0 +1,14 @@
+footer{
+    background: rgba(32, 41, 66, 1);
+}
+
+.footer-list{
+    list-style: none;
+    color: #fff;
+    padding: 0;
+}
+
+.footer-list li{
+    margin-top: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,14 @@
+.feature-box{
+    padding: 10px 20px;
+}
+
+.feature-box-icon{
+    background-color: rgba(242, 245, 252, 1);
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+
+}
